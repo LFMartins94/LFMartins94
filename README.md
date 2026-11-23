@@ -110,7 +110,7 @@ My experience includes:
 ### Backend & Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pydantic, uvicorn"/>
 </p>
 
 ### Databases & Storage
